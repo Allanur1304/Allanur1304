@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm [Allanur]!
 
-<!--
-**Allanur1304/Allanur1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering graduate  
+💻 Frontend Developer focused on building modern and responsive web applications  
+🌍 Based in [Romania/bucharest]  
+🚀 Currently working with *React, **JavaScript, **HTML/CSS, and **TailwindCSS*  
+📌 Passionate about clean code, UI/UX, and continuous learning
 
-Here are some ideas to get you started:
+## 🔧 Tools & Technologies
+- React.js • JavaScript (ES6+) • HTML5 • CSS3  
+- Git & GitHub • TailwindCSS • Bootstrap  
+- VSCode • Netlify • Figma (Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me  
+- Email: [allanur1308@gmail.com]
